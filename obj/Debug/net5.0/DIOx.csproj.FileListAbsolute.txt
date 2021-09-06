@@ -1,0 +1,16 @@
+C:\Users\Owner\DIOx\bin\Debug\net5.0\DIOx.exe
+C:\Users\Owner\DIOx\bin\Debug\net5.0\DIOx.deps.json
+C:\Users\Owner\DIOx\bin\Debug\net5.0\DIOx.runtimeconfig.json
+C:\Users\Owner\DIOx\bin\Debug\net5.0\DIOx.runtimeconfig.dev.json
+C:\Users\Owner\DIOx\bin\Debug\net5.0\DIOx.dll
+C:\Users\Owner\DIOx\bin\Debug\net5.0\ref\DIOx.dll
+C:\Users\Owner\DIOx\bin\Debug\net5.0\DIOx.pdb
+C:\Users\Owner\DIOx\obj\Debug\net5.0\DIOx.csproj.AssemblyReference.cache
+C:\Users\Owner\DIOx\obj\Debug\net5.0\DIOx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\DIOx\obj\Debug\net5.0\DIOx.AssemblyInfoInputs.cache
+C:\Users\Owner\DIOx\obj\Debug\net5.0\DIOx.AssemblyInfo.cs
+C:\Users\Owner\DIOx\obj\Debug\net5.0\DIOx.csproj.CoreCompileInputs.cache
+C:\Users\Owner\DIOx\obj\Debug\net5.0\DIOx.dll
+C:\Users\Owner\DIOx\obj\Debug\net5.0\ref\DIOx.dll
+C:\Users\Owner\DIOx\obj\Debug\net5.0\DIOx.pdb
+C:\Users\Owner\DIOx\obj\Debug\net5.0\DIOx.genruntimeconfig.cache
